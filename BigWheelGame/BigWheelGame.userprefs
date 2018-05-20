@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Timer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PieGenerator.cs" Line="30" Column="3" />
+      <File FileName="Assets\Scripts\BetButtonManager.cs" Line="92" Column="5" />
+      <File FileName="Assets\Scripts\CardData.cs" Line="50" Column="47" />
+      <File FileName="Assets\Scripts\PieRotation.cs" Line="66" Column="5" />
+      <File FileName="Assets\Scripts\UI_Controller_InGame.cs" Line="44" Column="3" />
+      <File FileName="Assets\Scripts\GetRandomSeedNum.cs" Line="6" Column="30" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="118" Column="42" />
+      <File FileName="Assets\Resources\JsonFiles\CardData.json" Line="2" Column="35" />
+      <File FileName="Assets\Scripts\CardBetted.cs" Line="22" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

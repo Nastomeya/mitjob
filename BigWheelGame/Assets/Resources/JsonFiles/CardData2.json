@@ -1,0 +1,5 @@
+{"cardName":"Blue Card", "rewardGoldCoins":2, "cardColour":"0, 0, 1", "sequence":"2,5,7,10,12,14"}
+{"cardName":"Green Card", "rewardGoldCoins":4, "cardColour":"0, 1, 0", "sequence":"0,9"}
+{"cardName":"Red Card", "rewardGoldCoins":7, "cardColour":"1, 0, 0", "sequence":"3,6,11,13"}
+{"cardName":"Purple Card", "rewardGoldCoins":26, "cardColour":"0.541, 0.169, 0.886", "sequence":"1"}
+{"cardName":"Gold Card", "rewardGoldCoins":51, "cardColour":"1, 0.933, 0.573","sequence":"4,8,15"}
